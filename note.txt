@@ -1,0 +1,18 @@
+Font inside:
+
+- Awesome-fonts (.ttf and otf)
+
+- Iosevka-fonts (.ttf)
+
+- JetBrainsMono (.ttf)
+
+package: waybar, hyprland, rofi, dunst, kitty, swaybg, swayidle, pamixer, brillo (yay), cava (yay), fuzzel, cliphist, python-requests, hyprlock, brightnessctl, light (yay), hyprshot(yay), fish, neofetch
+
+command to refresh fonts:
+
+"fc-cache -fv"
+
+please copy fonts folder to $HOME/.local/share/  (dont forget check your fonts folder already have or not)
+
+Audio manager: pavucontrol
+Sound: pipewire
