@@ -17,7 +17,7 @@ Font inside:
 
 - JetBrainsMono (.ttf)
 
-package: waybar, hyprland, rofi, dunst, kitty, swaybg, swayidle, pamixer, brillo (yay), cava (yay), fuzzel, cliphist, python-requests, hyprlock, brightnessctl, light (yay), hyprshot(yay), fish, neofetch
+package: waybar, hyprland, rofi, dunst, kitty, swaybg, swayidle, pamixer, brillo (yay), cava (yay), fuzzel, cliphist, python-requests, hyprlock, brightnessctl, light (yay), hyprshot(yay), fish, neofetch, python-gobject
 
 command to refresh fonts:
 
